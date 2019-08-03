@@ -17,3 +17,6 @@ def remove_green(image):
         img[:,:,i] = image[:,:,i]*img_ratio
 
     return img
+
+def to_int(im):
+    return np.array(im * (255/np.max(im)), dtype=np.uint8)
