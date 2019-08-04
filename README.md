@@ -1,11 +1,11 @@
 Background removal for Unacademy
 -------------
-
+<ol>
 We have 3 ways to remove the background
-1] Browser side tensorflow.js
-2] Server side opencv for plain background removal
-3] Server side trained model for complex background removal
-
+<li> Browser side tensorflow.js </li>
+<li> Server side opencv for plain background removal </li>
+<li> Server side trained model for complex background removal </li>
+</ol>
 
 
 Run the tensorflow.js model
