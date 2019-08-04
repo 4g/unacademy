@@ -4,15 +4,14 @@ We have 3 ways to remove the background
 3] Server side trained model for complex background removal
 
 
+
+Run the tensorflow.js model
+-------------
 Try the browser side tensorflow.js live on http://bit.ly/unaback
 
-How to build and run the browser side 
+The description and install of pretrianed tensorflow.js model 
 -------------
-
-1] install yarn and npm
-2] 'yarn' in tfjs-models/body-pix/
-3] 'yarn watch' in tfjs-models/body-pix/demos/
-4] Access the url. Allow camera access on the browser
+Checkout https://github.com/4g/unacademy/tree/master/tfjs-models
 
 
 
@@ -31,4 +30,5 @@ Opencv description
 1] It uses inrange function to pick particular color by hsv model
 2] Dilate and erode
 3] We find contours of lesser area comapared to the total image area. We then masked them. 
+
 
