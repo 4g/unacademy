@@ -1,3 +1,4 @@
+
 We have 3 ways to remove the background
 1] Browser side tensorflow.js
 2] Server side opencv for plain background removal
