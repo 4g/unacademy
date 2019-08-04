@@ -1,4 +1,12 @@
-# Pre-trained TensorFlow.js models
+
+
+# Install for Pre-trained TensorFlow.js models
+1] install yarn and npm
+2] 'yarn' in tfjs-models/body-pix/
+3] 'yarn watch' in tfjs-models/body-pix/demos/
+4] Access the url. Allow camera access on the browser
+
+
 
 This repository hosts a set of pre-trained models that have been ported to
 TensorFlow.js.
